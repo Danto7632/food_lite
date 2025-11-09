@@ -1,4 +1,4 @@
-# 🍽️ HealthSnap - AI 기반 건강검진 분석 시스템
+# 🍽️ HealthSnap - 건강검진 기반 AI 건강관리 시스템
 
 <div align="center">
   <img src="public/image/main.png" alt="HealthSnap 메인화면" width="800"/>
